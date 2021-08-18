@@ -1,0 +1,794 @@
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+ReferenceError: sortByDate is not defined
+    at getStaticProps (webpack-internal:///./pages/index.js:88:25)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:374:30)
+    at async doRender (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1127:38)
+    at async /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1221:28
+    at async /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/response-cache.js:60:36
+wait  - compiling...
+error - ./pages/index.js:7:0
+Module not found: Can't resolve '../utils'
+   5 | import Head from 'next/head'
+   6 | import Post from '../components/Post'
+>  7 | import {sortByDate} from '../utils'
+   8 | 
+   9 | //use data fetching method to fetc our Markdown post
+  10 | export default function Home({posts}) {
+
+Import trace for requested module:
+
+https://nextjs.org/docs/messages/module-not-found
+wait  - compiling...
+error - ./pages/index.js:7:0
+Module not found: Can't resolve '../utils'
+   5 | import Head from 'next/head'
+   6 | import Post from '../components/Post'
+>  7 | import {sortByDate} from '../utils'
+   8 | 
+   9 | //use data fetching method to fetc our Markdown post
+  10 | export default function Home({posts}) {
+
+Import trace for requested module:
+
+https://nextjs.org/docs/messages/module-not-found
+wait  - compiling...
+error - ./pages/index.js:7:0
+Module not found: Can't resolve '../utils'
+   5 | import Head from 'next/head'
+   6 | import Post from '../components/Post'
+>  7 | import {sortByDate} from '../utils'
+   8 | 
+   9 | //use data fetching method to fetc our Markdown post
+  10 | export default function Home({posts}) {
+
+Import trace for requested module:
+
+https://nextjs.org/docs/messages/module-not-found
+wait  - compiling...
+error - ./pages/index.js:7:0
+Module not found: Can't resolve '../utils'
+   5 | import Head from 'next/head'
+   6 | import Post from '../components/Post'
+>  7 | import {sortByDate} from '../utils'
+   8 | 
+   9 | //use data fetching method to fetc our Markdown post
+  10 | export default function Home({posts}) {
+
+Import trace for requested module:
+
+https://nextjs.org/docs/messages/module-not-found
+wait  - compiling...
+error - ./pages/index.js:7:0
+Module not found: Can't resolve '../utils'
+   5 | import Head from 'next/head'
+   6 | import Post from '../components/Post'
+>  7 | import {sortByDate} from '../utils'
+   8 | 
+   9 | //use data fetching method to fetc our Markdown post
+  10 | export default function Home({posts}) {
+
+Import trace for requested module:
+
+https://nextjs.org/docs/messages/module-not-found
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+[
+  'django-crash-course.md.html',
+  'javascript-performance-tips.md.html',
+  'new-in-php-8.md.html',
+  'python-book-review.md.html',
+  'react-crash-course.md.html',
+  'tailwind-vs-bootstrap.md.html',
+  'writing-great-unit-tests.md.html'
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+[
+  { slug: 'django-crash-course.html', frontmatter: {} },
+  { slug: 'javascript-performance-tips.html', frontmatter: {} },
+  { slug: 'new-in-php-8.html', frontmatter: {} },
+  { slug: 'python-book-review.html', frontmatter: {} },
+  { slug: 'react-crash-course.html', frontmatter: {} },
+  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
+  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
+]
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:265:19)
+    at doRender (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1127:57)
+    at /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1221:34
+    at /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/response-cache.js:60:42
+    at ResponseCache.get (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/response-cache.js:77:11)
+    at DevServer.renderToResponseWithComponents (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1158:53)
+    at DevServer.renderToResponse (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1294:39)
+    at async DevServer.pipe (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:849:25)
+    at async Object.fn (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:659:21)
+    at async Router.execute (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/router.js:205:32)
+Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:265:19)
+    at doRender (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1127:57)
+    at /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1221:34
+    at /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/response-cache.js:60:42
+    at ResponseCache.get (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/response-cache.js:77:11)
+    at DevServer.renderToResponseWithComponents (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1158:53)
+    at DevServer.renderToResponse (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:1294:39)
+    at async DevServer.pipe (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:849:25)
+    at async Object.fn (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/next-server.js:659:21)
+    at async Router.execute (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/router.js:205:32)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+error - ./pages/_app.js:37:1
+Syntax error: Unexpected token (37:0)
+
+  35 | 
+  36 | // export default MyApp
+> 37 | 
+     | ^
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/writing-great-unit-tests` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+Error: Multiple children were passed to <Link> with `href` of `/blog/writing-great-unit-tests` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+Error: Multiple children were passed to <Link> with `href` of `/blog/writing-great-unit-tests` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+event - compiled successfully
+Error: Multiple children were passed to <Link> with `href` of `/blog/writing-great-unit-tests` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+Error: Multiple children were passed to <Link> with `href` of `/blog/writing-great-unit-tests` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
+    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
+    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
+    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
+    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
+    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
+    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
+    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
+    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
+    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
+    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+event - build page: /blog/[slug]
+wait  - compiling...
+event - compiled successfully
