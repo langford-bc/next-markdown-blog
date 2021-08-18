@@ -1,120 +1,3 @@
-  'new-in-php-8.md.html',
-  'python-book-review.md.html',
-  'react-crash-course.md.html',
-  'tailwind-vs-bootstrap.md.html',
-  'writing-great-unit-tests.md.html'
-]
-[
-  { slug: 'django-crash-course.html', frontmatter: {} },
-  { slug: 'javascript-performance-tips.html', frontmatter: {} },
-  { slug: 'new-in-php-8.html', frontmatter: {} },
-  { slug: 'python-book-review.html', frontmatter: {} },
-  { slug: 'react-crash-course.html', frontmatter: {} },
-  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
-  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
-]
-[
-  { slug: 'django-crash-course.html', frontmatter: {} },
-  { slug: 'javascript-performance-tips.html', frontmatter: {} },
-  { slug: 'new-in-php-8.html', frontmatter: {} },
-  { slug: 'python-book-review.html', frontmatter: {} },
-  { slug: 'react-crash-course.html', frontmatter: {} },
-  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
-  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
-]
-Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
-    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
-    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
-    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
-    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
-    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
-    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
-    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
-    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
-    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
-    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
-wait  - compiling...
-event - compiled successfully
-[
-  'django-crash-course.md.html',
-  'javascript-performance-tips.md.html',
-  'new-in-php-8.md.html',
-  'python-book-review.md.html',
-  'react-crash-course.md.html',
-  'tailwind-vs-bootstrap.md.html',
-  'writing-great-unit-tests.md.html'
-]
-[
-  { slug: 'django-crash-course.html', frontmatter: {} },
-  { slug: 'javascript-performance-tips.html', frontmatter: {} },
-  { slug: 'new-in-php-8.html', frontmatter: {} },
-  { slug: 'python-book-review.html', frontmatter: {} },
-  { slug: 'react-crash-course.html', frontmatter: {} },
-  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
-  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
-]
-[
-  { slug: 'django-crash-course.html', frontmatter: {} },
-  { slug: 'javascript-performance-tips.html', frontmatter: {} },
-  { slug: 'new-in-php-8.html', frontmatter: {} },
-  { slug: 'python-book-review.html', frontmatter: {} },
-  { slug: 'react-crash-course.html', frontmatter: {} },
-  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
-  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
-]
-event - build page: /next/dist/pages/_error
-wait  - compiling...
-event - compiled successfully
-Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
-    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
-    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
-    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
-    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
-    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
-    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
-    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
-    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
-    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
-    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
-[
-  'django-crash-course.md.html',
-  'javascript-performance-tips.md.html',
-  'new-in-php-8.md.html',
-  'python-book-review.md.html',
-  'react-crash-course.md.html',
-  'tailwind-vs-bootstrap.md.html',
-  'writing-great-unit-tests.md.html'
-]
-[
-  { slug: 'django-crash-course.html', frontmatter: {} },
-  { slug: 'javascript-performance-tips.html', frontmatter: {} },
-  { slug: 'new-in-php-8.html', frontmatter: {} },
-  { slug: 'python-book-review.html', frontmatter: {} },
-  { slug: 'react-crash-course.html', frontmatter: {} },
-  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
-  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
-]
-[
-  { slug: 'django-crash-course.html', frontmatter: {} },
-  { slug: 'javascript-performance-tips.html', frontmatter: {} },
-  { slug: 'new-in-php-8.html', frontmatter: {} },
-  { slug: 'python-book-review.html', frontmatter: {} },
-  { slug: 'react-crash-course.html', frontmatter: {} },
-  { slug: 'tailwind-vs-bootstrap.html', frontmatter: {} },
-  { slug: 'writing-great-unit-tests.html', frontmatter: {} }
-]
-Error: Multiple children were passed to <Link> with `href` of `/blog/django-crash-course.html` but only one child is supported https://nextjs.org/docs/messages/link-multiple-children
-    at Link (webpack-internal:///./node_modules/next/dist/client/link.js:186:13)
-    at processChild (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3353:14)
-    at resolve (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3270:5)
-    at ReactDOMServerRenderer.render (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3753:22)
-    at ReactDOMServerRenderer.read (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:3690:29)
-    at renderToString (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/react-dom/cjs/react-dom-server.node.development.js:4298:27)
-    at Object.renderPage (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:626:31)
-    at Function.getInitialProps (webpack-internal:///./node_modules/next/dist/pages/_document.js:193:19)
-    at Object.loadGetInitialProps (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/shared/lib/utils.js:68:29)
-    at Object.renderToHTML (/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/node_modules/next/dist/server/render.js:643:40)
-wait  - compiling...
 event - compiled successfully
 wait  - compiling...
 event - compiled successfully
@@ -792,3 +675,142 @@ event - compiled successfully
 event - build page: /blog/[slug]
 wait  - compiling...
 event - compiled successfully
+wait  - compiling...
+event - compiled successfully
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/.next/cache/webpack/client-development/4.pack_' -> '/Users/deen/Desktop/NextJS-Starter/next-markdown-blog/.next/cache/webpack/client-development/4.pack'
+^C%                                                                                                                 
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % npm run build
+
+> next-markdown-blog@0.1.0 build
+> next build && next export
+
+info  - Using webpack 5. Reason: Enabled by default https://nextjs.org/docs/messages/webpack5
+info  - Checking validity of types  
+
+./pages/blog/[slug].js
+20:9  Warning: Do not use <img>. Use Image from 'next/image' instead. See https://nextjs.org/docs/messages/no-img-element.  @next/next/no-img-element
+
+./components/Post.js
+30:7  Warning: Do not use <img>. Use Image from 'next/image' instead. See https://nextjs.org/docs/messages/no-img-element.  @next/next/no-img-element
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules
+info  - Creating an optimized production build  
+info  - Compiled successfully
+info  - Collecting page data  
+info  - Generating static pages (10/10)
+info  - Finalizing page optimization  
+
+Page                                     Size     First Load JS
+┌ ● /                                    529 B          68.5 kB
+├   /_app                                0 B            67.9 kB
+├ ○ /404                                 194 B          68.1 kB
+└ ● /blog/[slug] (1262 ms)               16.5 kB        84.4 kB
+    ├ /blog/django-crash-course
+    ├ /blog/javascript-performance-tips
+    ├ /blog/new-in-php-8
+    └ [+4 more paths]
++ First Load JS shared by all            67.9 kB
+  ├ chunks/framework.895f06.js           42 kB
+  ├ chunks/main.4809d8.js                23.1 kB
+  ├ chunks/pages/_app.fd3230.js          1.98 kB
+  ├ chunks/webpack.0cb069.js             825 B
+  └ css/172762430e33494f2306.css         625 B
+
+λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+○  (Static)  automatically rendered as static HTML (uses no initial props)
+●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
+   (ISR)     incremental static regeneration (uses revalidate in getStaticProps)
+
+info  - Using webpack 5. Reason: Enabled by default https://nextjs.org/docs/messages/webpack5
+info  - using build directory: /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/.next
+info  - Copying "static build" directory
+info  - No "exportPathMap" found in "next.config.js". Generating map from "./pages"
+info  - Launching 7 workers
+info  - Copying "public" directory
+info  - Exporting (2/2)
+Export successful. Files written to /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/out
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % npm i -g serve
+npm ERR! code EACCES
+npm ERR! syscall mkdir
+npm ERR! path /usr/local/lib/node_modules/serve
+npm ERR! errno -13
+npm ERR! Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/serve'
+npm ERR!  [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/serve'] {
+npm ERR!   errno: -13,
+npm ERR!   code: 'EACCES',
+npm ERR!   syscall: 'mkdir',
+npm ERR!   path: '/usr/local/lib/node_modules/serve'
+npm ERR! }
+npm ERR! 
+npm ERR! The operation was rejected by your operating system.
+npm ERR! It is likely you do not have the permissions to access this file as the current user
+npm ERR! 
+npm ERR! If you believe this might be a permissions issue, please double-check the
+npm ERR! permissions of the file and its containing directories, or try running
+npm ERR! the command again as root/Administrator.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/deen/.npm/_logs/2021-08-18T09_20_43_427Z-debug.log
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % sudo npm i -g serve
+Password:
+
+added 88 packages, and audited 89 packages in 2s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % serve -s ./out -p 8000
+
+   ┌────────────────────────────────────────┐
+   │                                        │
+   │   Serving!                             │
+   │                                        │
+   │   Local:  http://localhost:8000        │
+   │                                        │
+   │   Copied local address to clipboard!   │
+   │                                        │
+   └────────────────────────────────────────┘
+
+^C
+INFO: Gracefully shutting down. Please wait...
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % git init
+Initialized empty Git repository in /Users/deen/Desktop/NextJS-Starter/next-markdown-blog/.git/
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % git add .
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % git commit -m 'tutorial project commit'
+[master (root-commit) 532e35b] tutorial project commit
+ 20 files changed, 11962 insertions(+)
+ create mode 100644 .eslintrc.json
+ create mode 100644 README.md
+ create mode 100644 components/Header.js
+ create mode 100644 components/Post.js
+ create mode 100644 next-markdown-blog-tut.txt
+ create mode 100644 next.config.js
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 pages/_app.js
+ create mode 100644 pages/blog/[slug].js
+ create mode 100644 pages/index.js
+ create mode 100644 posts/django-crash-course.md
+ create mode 100644 posts/javascript-performance-tips.md
+ create mode 100644 posts/new-in-php-8.md
+ create mode 100644 posts/python-book-review.md
+ create mode 100644 posts/react-crash-course.md
+ create mode 100644 posts/tailwind-vs-bootstrap.md
+ create mode 100644 posts/writing-great-unit-tests.md
+ create mode 100644 styles/globals.css
+ create mode 100644 utils/index.js
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % git remote add origin https://github.com/langford-bc/next-markdown-blog.git
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % git branch -M main
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % git push -u origin main
+Enumerating objects: 28, done.
+Counting objects: 100% (28/28), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (24/24), done.
+Writing objects: 100% (28/28), 111.29 KiB | 4.12 MiB/s, done.
+Total 28 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), done.
+To https://github.com/langford-bc/next-markdown-blog.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+(base) deen@x86_64-apple-darwin13 next-markdown-blog % 
